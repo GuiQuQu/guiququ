@@ -1,3 +1,33 @@
-.hello  {
+.hello {
     font-size: 20px;
+}
+
+.main-content {
+    margin-top: 3rem;
+}
+
+.bottom-container {
+    position: absolute;
+    top: 90vh;
+    width: 100vw;
+    height: 10vh;
+    background-color: #f6f9fa;
+}
+
+.bottom-content {
+    text-align: center;
+    padding: 3vh 5vh 0vh 5vh;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+.beian-number {
+    font-size: 14px;
+    color: #999999;
+    text-decoration: none;
+}
+
+beian-numer:hover {
+    color: #00a1d6;
 }
