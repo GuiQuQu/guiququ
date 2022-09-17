@@ -1,7 +1,7 @@
 **/__pycache__
-db.sqlite3
-**/nginx.conf
+/db.sqlite3
+/nginx.conf
 *.swp
 *.swo
-home/static/third-party
-static
+/home/static/js/third-party
+/static
